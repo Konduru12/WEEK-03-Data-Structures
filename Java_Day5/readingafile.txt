@@ -1,0 +1,4 @@
+Java is a programming language.
+It is a Object oriented Language.
+It is platform independent.
+Java is a complier language and also it is also known as Interpreted language.

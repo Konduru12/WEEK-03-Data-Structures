@@ -1,0 +1,6 @@
+Java is a programming Language.
+It is used by many Industry experts.
+It supports Four pillars of OOPs concepts.
+It has more secuirty features compared to other languages.
+It is platform independent.
+It is known as both complier language and Interpreter language.
